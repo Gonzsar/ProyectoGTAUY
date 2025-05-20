@@ -1,0 +1,11 @@
+# Archivos y carpetas innecesarias para el repo
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.VC.db
+*.VC.opendb
